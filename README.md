@@ -12,9 +12,14 @@ Welcome to VitaGuide, a user-friendly web application designed to help parents i
 7. Contact
 
 ## 🧑‍💻 About the Project
+
 VitaGuide is a web-based application that:
 
+ - Assists parents in understanding vitamin deficiencies through meal tracking.
+ - Suggests dietary recommendations tailored to their child’s needs.
+ - Provides insights into the side effects of deficiencies.
 
+The project’s ultimate goal is to promote children’s health by making accurate nutritional information accessible and actionable.
 
 
 
