@@ -11,6 +11,12 @@ Welcome to VitaGuide, a user-friendly web application designed to help parents i
 6. Contributing
 7. Contact
 
+## 🧑‍💻 About the Project
+VitaGuide is a web-based application that:
+
+
+
+
 
 Backend Setup:
 
