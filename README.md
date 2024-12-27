@@ -31,6 +31,13 @@ The project’s ultimate goal is to promote children’s health by making accura
  - City/State Autofill: Automatically detects location based on pin code for convenience.
  - Profile Photo Upload: Customize profiles with profile pictures.
 
+## 🛠️ Technologies Used
+ - Frontend: HTML, CSS, Bootstrap
+ - Backend: PHP
+ - Database: MySQL
+ - APIs: Location autofill (based on pin codes)
+ - Version Control: Git and GitHub
+
 Backend Setup:
 
 Ensure Node.js is installed on your system.
