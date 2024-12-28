@@ -1,15 +1,18 @@
-# 🌟 Vita_Guide: Empowering Parents to Address Vitamin Deficiencies 🌟
+# 🌟 VitaGuide: Empowering Children with Essential Nutritional Knowledge 🌟
 
-Welcome to VitaGuide, a user-friendly web application designed to help parents identify and manage potential vitamin deficiencies in their children. By combining cutting-edge technology with valuable nutritional insights, we aim to promote healthier lives for kids everywhere.
+Welcome to VitaGuide.  **VitaGuide** is a web application designed to help parents and caregivers monitor and address potential vitamin deficiencies in children. By combining user-friendly interfaces with robust data analysis, VitaGuide provides personalized dietary recommendations, educational resources, and progress-tracking tools to promote healthier lifestyles for children.
 
 ## 📖 Table of Contents
-1. About the Project
-2. Key Features
-3. Technologies Used
-4. Getting Started
-5. Usage
-6. Contributing
-7. Contact
+ 1. Project Overview
+ 2. Purpose
+ 3. Key Features
+ 4. Technologies Used
+ 5. System Design
+ 6. Getting Started
+ 7. Usage
+ 8. Future Scope
+ 9. Contributing
+ 10. Contact
 
 ## 🧑‍💻 About the Project
 
