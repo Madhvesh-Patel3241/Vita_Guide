@@ -32,11 +32,20 @@ The project’s ultimate goal is to promote children’s health by making accura
  - Profile Photo Upload: Customize profiles with profile pictures.
 
 ## 🛠️ Technologies Used
+
  - Frontend: HTML, CSS, Bootstrap
  - Backend: PHP
  - Database: MySQL
  - APIs: Location autofill (based on pin codes)
  - Version Control: Git and GitHub
+
+## 📋 Usage
+
+ 1. Register as a new user or log in with your credentials.
+ 2. Fill out personal details, including meals, location, and profile photo.
+ 3. Access personalized vitamin deficiency reports and food recommendations.
+ 4. Update your meal logs regularly to refine suggestions.
+
 
 Backend Setup:
 
