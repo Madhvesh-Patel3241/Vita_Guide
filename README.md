@@ -26,6 +26,16 @@ VitaGuide is a web-based application that:
 
 The project’s ultimate goal is to promote children’s health by making accurate nutritional information accessible and actionable.
 
+## 🎯 Purpose
+
+VitaGuide addresses the growing issue of undiagnosed vitamin deficiencies, helping families:
+
+ - **Detect Early**: Identify deficiencies before they escalate.
+ - **Educate**: Simplify nutritional concepts for parents and caregivers.
+ - **Prevent**: Promote proactive health measures.
+ - **Personalize**: Offer dietary recommendations tailored to each child’s needs.
+
+
 ## ✨ Key Features
 
  - Personalized User Profiles: Secure accounts for parents to manage data for multiple children.
