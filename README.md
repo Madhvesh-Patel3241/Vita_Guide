@@ -38,13 +38,12 @@ VitaGuide addresses the growing issue of undiagnosed vitamin deficiencies, helpi
 
 ## ✨ Key Features
 
- - Personalized User Profiles: Secure accounts for parents to manage data for multiple children.
- - Meal Tracking: Log meals to analyze dietary patterns.
- - Vitamin Deficiency Analysis: Identify gaps in nutrition and receive actionable recommendations.
- - Food Suggestions: Get a list of foods rich in specific vitamins.
- - Interactive UI: Modern, responsive design using midnight blue, royal blue, and burgundy red themes.
- - City/State Autofill: Automatically detects location based on pin code for convenience.
- - Profile Photo Upload: Customize profiles with profile pictures.
+ - **Vitamin Deficiency Analysis**: Pinpoints potential deficiencies using a dynamic questionnaire.
+ - **Personalized Recommendations**: Provides tailored dietary suggestions based on analysis.
+ - **Educational Resources**: Offers articles and videos on child nutrition and vitamin roles.
+ - **Progress Tracking**: Tracks health improvements over time.
+ - **Responsive Design**: Accessible on desktops, tablets, and smartphones.
+ - **Secure User Accounts**: Ensures data privacy through secure login and authentication.
 
 ## 🛠️ Technologies Used
 
