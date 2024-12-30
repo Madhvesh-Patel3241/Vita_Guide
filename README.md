@@ -47,11 +47,11 @@ VitaGuide addresses the growing issue of undiagnosed vitamin deficiencies, helpi
 
 ## 🛠️ Technologies Used
 
- - Frontend: HTML, CSS, Bootstrap
- - Backend: PHP
- - Database: MySQL
- - APIs: Location autofill (based on pin codes)
- - Version Control: Git and GitHub
+ - **Frontend**: React and Tailwind CSS
+ - **Backend**: Node.js and Express.js
+ - **Database**: MongoDB
+ - **Testing**: Postman/Mocha
+ - **Development Environment**: Visual Studio Code (VS Code)
 
 ## 📋 Usage
 
