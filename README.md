@@ -21,7 +21,7 @@ VitaGuide leverages an intuitive questionnaire to gather data on children’s di
 VitaGuide is a web-based application that:
 
  - Assists parents in understanding vitamin deficiencies through meal tracking.
- - Suggests dietary recommendations tailored to their child’s needs.
+ - Suggest dietary recommendations tailored to their child’s needs.
  - Provides insights into the side effects of deficiencies.
 
 The project’s ultimate goal is to promote children’s health by making accurate nutritional information accessible and actionable.
@@ -61,7 +61,7 @@ VitaGuide employs a three-tier architecture:
  2. **Business Logic Layer**: Node.js with Express.js processes inputs and runs deficiency analysis.
  3. **Data Layer**: MongoDB stores user data, health records, and recommendations.
 
-APIs connect the frontend and backend, ensuring seamless communication and integration with external services for enhanced analysis.
+APIs connect the front-end and back-end, ensuring seamless communication and integration with external services for enhanced analysis.
 
 ## 🚀 Getting Started
 
@@ -109,3 +109,70 @@ APIs connect the frontend and backend, ensuring seamless communication and integ
  3. **View Results**: Get detailed reports on potential deficiencies and dietary recommendations.
  4. **Track Progress**: Monitor improvements over time using the progress tracker.
 
+## 🔮 Future Scope
+
+ 1. **Integration with Wearables**: Use fitness trackers for real-time data.
+ 2. **Mobile App**: Develop a native app for better accessibility.
+ 3. **Advanced AI Features**: Incorporate AI for smarter deficiency detection.
+ 4. **Meal Planning Tools**: Add features for meal planning and shopping list generation.
+
+## 🤝 Contributing
+
+We welcome contributions to enhance VitaGuide!
+
+### Steps to Contribute:
+
+ 1. Fork the repository.
+    
+ 2. Create a new branch:
+
+        git checkout -b feature-name
+    
+ 3. Commit changes:
+
+        git commit -m "Add your message here"
+    
+ 4. Push the changes:
+
+        git push origin feature-name
+    
+ 5. Submit a pull request.
+
+## 📞 Contact
+
+### Authors:
+
+  - **K Sai Sathvik**
+  - **Jishnu M**
+  - **Madhvesh Patel**
+  
+ <!-- Institution: Amrita Vishwa Vidyapeetham, Coimbatore
+ 
+ Course: Full Stack Development (24CS635) -->
+
+If you have any questions or feedback, feel free to contact me through GitHub.
+
+
+### Backend Setup:
+
+Ensure Node.js is installed on your system.
+
+Please navigate to the backend folder and install dependencies: 
+
+    cd server 
+    npm i
+    
+Start the backend server: 
+
+    npm start
+
+### Frontend Setup:
+
+Navigate to the frontend folder and install dependencies: 
+
+    cd client
+    npm install
+    
+Start the frontend development server: 
+
+    npm run dev 
