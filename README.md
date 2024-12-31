@@ -53,20 +53,59 @@ VitaGuide addresses the growing issue of undiagnosed vitamin deficiencies, helpi
  - **Testing**: Postman/Mocha
  - **Development Environment**: Visual Studio Code (VS Code)
 
+## 🏗️ System Design
+
+VitaGuide employs a three-tier architecture:
+
+ 1. **Presentation Layer**: Interactive UI built with React and Tailwind CSS.
+ 2. **Business Logic Layer**: Node.js with Express.js processes inputs and runs deficiency analysis.
+ 3. **Data Layer**: MongoDB stores user data, health records, and recommendations.
+
+APIs connect the frontend and backend, ensuring seamless communication and integration with external services for enhanced analysis.
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+ - Node.js and npm installed on your system.
+ - MongoDB installed or access to a cloud-based MongoDB instance.
+
+### Installation
+
+ 1. Clone the repository:
+
+        git clone [https://github.com/Madhvesh-Patel3241/Vita_Guide.git]
+    
+ 2. Navigate to the project directory:
+
+        cd VitaGuide
+    
+ 3. Install dependencies:
+
+        npm install
+
+ 4. Start the application:
+    
+### Navigate to the frontend folder and install dependencies: 
+      cd client
+     
+      npm install
+     
+### Start the frontend development server: 
+      npm run dev 
+
+### Please navigate to the backend folder and install dependencies: 
+      cd server
+      
+      npm install
+      
+### Start the backend server: 
+      npm start
+
 ## 📋 Usage
 
- 1. Register as a new user or log in with your credentials.
- 2. Fill out personal details, including meals, location, and profile photo.
- 3. Access personalized vitamin deficiency reports and food recommendations.
- 4. Update your meal logs regularly to refine suggestions.
+ 1. **Register/Login**: Create an account or log in to access features.
+ 2. **Input Data**: Fill out the questionnaire on your child’s dietary habits and symptoms.
+ 3. **View Results**: Get detailed reports on potential deficiencies and dietary recommendations.
+ 4. **Track Progress**: Monitor improvements over time using the progress tracker.
 
-
-Backend Setup:
-
-Ensure Node.js is installed on your system.
-Please navigate to the backend folder and install dependencies: cd server, npm i
-Start the backend server: npm start
-Frontend Setup:
-
-Navigate to the frontend folder and install dependencies: cd client, npm install
-Start the frontend development server: npm run dev 
